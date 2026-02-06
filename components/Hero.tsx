@@ -104,7 +104,7 @@ export default function Hero() {
                             transition={{ duration: 5, repeat: Infinity, ease: "easeInOut" }}
                         >
                             <Image
-                                src="/book-cover.png"
+                                src="/book-cover.jpg"
                                 alt="I'm A Big Fish Not A Guppy Book Cover"
                                 width={600}
                                 height={600}
