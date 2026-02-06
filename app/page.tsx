@@ -11,6 +11,7 @@ import ScrollProgress from "@/components/ScrollProgress";
 import Contact from "@/components/Contact";
 
 export default function Home() {
+  // Big Fish Deployment v1.1
   return (
     <main className="min-h-screen relative bg-[var(--color-background)]">
       <ScrollProgress />
